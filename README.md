@@ -1374,4 +1374,9 @@ You will make users lose trust in many sites, despite there being less than a 1 
 - [zoominfo.com](http://zoominfo.com)
 - [zoomit.ir](http://zoomit.ir)
 - [zurb.com](http://zurb.com)
-- [zwaar.net](http://zwaar.net)
+- [entekhab](https://entekhabclick.ir/)
+- [entekhabclick](https://entekhabclick.ir/)
+- [20to20](https://20to20.ir/)
+- [bisttobist](https://20to20.biz/)
+- [dlfun](https://dlfun.ir/)
+
